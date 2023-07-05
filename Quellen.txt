@@ -1,0 +1,61 @@
+Basis der UeberUns Seite
+    https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_template1
+
+Quellen der Bilder:
+
+    Haikyu!! Informationen
+        https://www.anisearch.de/anime/9011,haikyu
+        https://de.wikipedia.org/wiki/Haikyu!!
+    Haikyu!! Bild
+        https://i.pinimg.com/originals/92/81/00/92810010c218e2f3a9fe1004b016fa8e.png
+
+    Kabaddi Informationen
+        https://www.anisearch.de/anime/15380,shakunetsu-kabaddi
+    Kabaddi Bild
+        https://animeanime.global/wp-content/uploads/2021/04/397870.jpg
+
+    Kuruko no Basket Informationen
+        https://www.anisearch.de/anime/7314,kurokos-basketball-1st-season
+        https://de.wikipedia.org/wiki/Kuroko_no_Basuke
+    Kuroko no Basket Bild
+        https://i.pinimg.com/originals/56/f3/a3/56f3a31277d8ff3e3668a0ca30ba33b7.jpg
+        
+
+    Black Clover Informationen
+        https://www.anisearch.de/anime/12131,black-clover
+        https://de.wikipedia.org/wiki/Black_Clover
+    Black Clover Bild
+        https://i.pinimg.com/originals/70/6b/8e/706b8e922df2e05504d8dc5f6e042d2d.png
+
+    Naruto Informationen
+        https://www.anisearch.de/anime/2788,naruto
+        https://de.wikipedia.org/wiki/Naruto_(Manga)
+    Naruto Bild
+        https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png
+
+    Slice of Life Informationen
+        https://de.wikipedia.org/wiki/Slice_of_Life
+
+    Your lie in April Informationen
+        https://www.anisearch.de/anime/9536,shigatsu-wa-kimi-no-uso-sekunden-in-moll
+        https://de.wikipedia.org/wiki/Shigatsu_wa_Kimi_no_Uso_–_Sekunden_in_Moll
+    Your lie in April Bild
+        https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/168_637015825367747093Your_Lie_Small_hq.jpg
+
+    Grand Blue Informationen
+        https://www.anisearch.de/anime/13414,grand-blue-dreaming
+        https://de.wikipedia.org/wiki/Grand_Blue
+    Grand Blue Bild
+        https://i.redd.it/lf3zl98yy7011.jpg
+
+    Favicon
+        https://freepngimg.com/download/pokemon/36116-5-anime-pokemon-transparent.png
+
+    Bild von Florian
+        https://steamcommunity.com/profiles/76561198206609640
+    
+    Bild von Andre
+        https://steamcommunity.com/id/frozenstar48/
+    
+    Bild Standort
+        https://www.google.de/maps/place/Europaschule+Schulzentrum+Utbremen/@53.0888485,8.7946992,18.14z/data=!4m13!1m7!3m6!1s0x47b128473eb772c3:0x1d64d86b79490e51!2sMeta-Sattler-Str.,+28217+Bremen!3b1!8m2!3d53.0890484!4d8.7938513!3m4!1s0x41648429f8b9ccbf:0x90feb9320fc47cd1!8m2!3d53.0889041!4d8.7952323
